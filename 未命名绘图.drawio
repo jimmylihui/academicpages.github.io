@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T19:41:41.061Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="r9GjO6H3rUz-Np_31UV6" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T19:44:22.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="SNcyJGRp1DGfSUpWxHm-" version="22.1.0" type="github">
   <diagram name="第 1 页" id="wZ13EeWJKWFvQt3x4rx6">
-    <mxGraphModel dx="2065" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1421" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1486,8 +1486,17 @@
         <mxCell id="IT8IMpOZwN_9MQMlR_QI-484" value="Forecasting &amp;nbsp;Results" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1937.9100000000003" y="683.06" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R-W3sCULATnhmVgO2J70-1" value="Input Time series" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="R-W3sCULATnhmVgO2J70-1" value="Input Time Series" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-139.99999999999955" y="328.99999999999994" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-W3sCULATnhmVgO2J70-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IT8IMpOZwN_9MQMlR_QI-113" target="IT8IMpOZwN_9MQMlR_QI-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R-W3sCULATnhmVgO2J70-3" value="Patched Input Embeddings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="205.00000000000045" y="324.99999999999994" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R-W3sCULATnhmVgO2J70-4" value="CLS tokens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="364.9100000000004" y="326.49999999999994" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
